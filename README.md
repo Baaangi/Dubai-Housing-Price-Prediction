@@ -24,4 +24,5 @@ This project predicts house prices using **Multivariate Linear Regression**
 ## 🚀 How to Run
 1. Clone this repository
    ```bash
-   git clone https://github.com/Baaangi/house-price-prediction.git
+   git clone https://github.com/Baaangi/Dubai-Housing-Price-Prediction.git
+
